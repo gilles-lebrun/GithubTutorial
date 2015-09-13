@@ -2,5 +2,6 @@
     <string name="app_name">GithubTutorial</string>
 
     <string name="hello_world">Hello world!</string>
+    <string name="tutorial_github">Tutorial Git avec AndroidStudio</string>
     <string name="action_settings">Settings</string>
 </resources>
